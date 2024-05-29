@@ -51,7 +51,14 @@ AlignIQL/jaxrl5/agents/align_iql/align_iql_learner.py
 Cite this paper
 
 ```
-
+@misc{he2024aligniql,
+      title={AlignIQL: Policy Alignment in Implicit Q-Learning through Constrained Optimization}, 
+      author={Longxiang He and Li Shen and Junbo Tan and Xueqian Wang},
+      year={2024},
+      eprint={2405.18187},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 ## Problems
